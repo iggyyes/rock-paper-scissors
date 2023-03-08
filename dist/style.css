@@ -1,2 +1,2 @@
-
+*,:after,:before{box-sizing:border-box}body{font-family:Space Grotesk,sans-serif}button{background-color:#000;border:none;border-radius:.625rem;color:#fff;cursor:pointer;font:inherit;padding:.5rem 1rem}button:hover{background-color:#2e2e2e}button:active{background-color:#424242}button:focus{background-color:#000;color:#ffadd6}p{font-weight:700;text-transform:uppercase}
 /*# sourceMappingURL=style.css.map */
